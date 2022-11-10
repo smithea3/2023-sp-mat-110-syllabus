@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xml:id="section-2" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Faculty Information</title>
+
+  <subsection>
+  <title>Instructor</title>
+  <p>Ethan A. Smith</p>
+  </subsection>
+
+  <subsection>
+  <title>Email Address</title>
+  <p>esmith3@mitchellcc.edu</p>
+  </subsection>
+
+  <subsection>
+  <title>Response Time Policy</title>
+  <p>I will reply to emails and phone calls within 36 hours Monday through Friday. During the weekends, holidays, and institutional closing, response times may be increased due to lack of access to technology.</p>
+  </subsection>
+  
+  <subsection>
+  <title>Office Phone Number</title>
+  <p>704-878-3270</p>
+  </subsection>
+  
+  <subsection>
+  <title>Office Location</title>
+  <p>VB-212A</p>
+  </subsection>
+
+  <subsection>
+  <title>Avaiable for Student Support</title>
+  <p>TBA</p>
+  </subsection>
+
+  <subsection>
+  <title>College Reception Desk</title>
+  <p>(704) 878-3200 (Statesville Campus); (704) 663-1923 (Mooresville Campus)</p>
+  </subsection>
+
+</section>

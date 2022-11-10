@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xml:id="section_CatalogDescription" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Student Learning Outcomes</title>
+  <p>
+  Upon successful completion of this course, the student should be able to:
+    <ol>
+      <li>Demonstrate estimation skills.</li>
+      <li>Justify results of estimation.</li>
+      <li>Use dimensional analysis to convert units of measurements.</li>
+      <li>Use fractions, percentages and proportions to solve contextual problems.</li>
+      <li>Compute geometric measurements or perimeter, area, volume, and angles.</li>
+      <li>Use technology to analyze and interpret elements of personal finance.</li>
+      <li>Compare and contrast measures of center and measures of dispersion.</li>
+      <li>Interpret tables, charts, and graphs.</li>
+      <li>Use tables, charts, and graphs to communicate results of data.</li>
+      <li>Apply quantitative reasoning to solve problems.</li>
+    </ol>
+  </p>
+</section>
