@@ -10,5 +10,14 @@
     <xi:include href="./section_FacultyInformation.ptx" />
     <xi:include href="./section_CatalogDescription.ptx" />
     <xi:include href="./section_SLO.ptx" />
+    <xi:include href="./section_RecommendationsForSuccess.ptx" />
+    <xi:include href="./section_TextbookAndMaterials.ptx" />
+    <xi:include href="./section_TeachingAndLearningStrategies.ptx" />
+    <xi:include href="./section_Grading.ptx" />
+    <xi:include href="./section_AttendancePolicy.ptx" />
+    <xi:include href="./section_NoShow-Census.ptx" />
+    <xi:include href="./section_WithdrawalPolicy.ptx" />
+    <xi:include href="./section_AcademicDishonesty.ptx" />
+    <xi:include href="./section_ClassSchedule.ptx" />
   </article>
 </pretext>

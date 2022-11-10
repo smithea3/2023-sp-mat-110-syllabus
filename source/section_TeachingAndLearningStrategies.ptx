@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xml:id="section_Teaching_And_Learning" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Teaching and Learning Strategies</title>
+  <subsection xml:id="subsec-LearningEnvioronment">
+    <title>Learning Environment</title>
+    <p>The learning environment of this course is a somewhat tradtional. This course takes place in a lecture-style classroom augmented with computers. </p>
+    
+  </subsection>
+
+  <subsection xml:id="subsec-TechnologyRequirements">
+    <title>Technology Requirements and Resources</title>
+    <p>
+      For information on Technology Requirements, visit the <url href="https://mitchellcc.edu/distance-learning-faqs">Mitchell Community College Technology 
+      Requirements and Expectations webpage</url> (opens in a new window).
+    </p>
+
+    <p>
+      We may from time to time use online programs such as Desmos Graphing Calculator, 
+      Microsoft PowerPoint, and Microsoft Excel. If other resources or technologies are 
+      discovered and may benefit the teaching and learning environment, they may be 
+      incorporated as seen fit by the instructor.
+    </p>
+  </subsection>
+</section>
